@@ -7,15 +7,15 @@ Telegram: [@ElmErroom](https://t.me/ElmErroom) · GitHub: [elmerroom](https://gi
 ### 🎲 TowerEmpire — multiplayer-платформа настольных игр
 [Репозиторий](https://github.com/elmerroom/TowerEmpire_Frontend) · [Сайт](https://tower-empire.org/)
 
-![Игровой стол](assets/Игра 100ЧО.png)
+![Игровой стол](assets/Игра_100ЧО.png)
 
 <details>
 <summary>Ещё скриншоты</summary>
 
-![Главная](assets/Главная страница.png)
+![Главная](assets/Главная_страница.png)
 ![Список комнат](assets/Лобби.png)
 ![Комната](assets/Комната.png)
-![Настольная игра Фуфломицин](assets/Игра Фуфломицин.png)
+![Настольная игра Фуфломицин](assets/Игра_Фуфломицин.png)
 
 </details>
 
