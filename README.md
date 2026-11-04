@@ -57,6 +57,15 @@ Real-time игра с лобби, чатом и синхронизацией с�
 ### 🤝 SkillSwap — поиск наставников и учеников
 [Репозиторий](https://github.com/elmerroom/SkillSwap)
 
+![Главная](assets/Главная_SkillSwap.png)
+
+<details>
+<summary>Ещё скриншоты</summary>
+
+![Карточка пользователей](assets/Карточка_Пользователя.png)
+
+</details>
+
 Командный проект. Реализовал клиентское хранилище на IndexedDB, кастомные хуки для работы с изображениями, слайдер галереи (Splide), проработал доступность интерфейса.
 
 `React` `TypeScript` `IndexedDB` `Splide`
