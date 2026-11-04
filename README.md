@@ -7,6 +7,17 @@ Telegram: [@ElmErroom](https://t.me/ElmErroom) · GitHub: [elmerroom](https://gi
 ### 🎲 TowerEmpire — multiplayer-платформа настольных игр
 [Репозиторий](https://github.com/elmerroom/TowerEmpire_Frontend) · [Сайт](https://tower-empire.org/)
 
+![Игровой стол](<img width="1903" height="920" alt="image" src="https://github.com/user-attachments/assets/39e18e7b-4987-43b3-845c-a763effec2d0" />)
+
+<details>
+<summary>Ещё скриншоты</summary>
+
+![Список комнат](<img width="2550" height="1283" alt="image" src="https://github.com/user-attachments/assets/dd9f2255-5736-4b33-aa7a-daa1c6330f99" />)
+![Комната](<img width="1916" height="925" alt="image" src="https://github.com/user-attachments/assets/1e52f20a-f428-45ab-a5fe-4385ec1fc136" />)
+![Настольная игра Фуфломицин](<img width="1907" height="927" alt="image" src="https://github.com/user-attachments/assets/10773e33-29ee-4369-b476-c0c5e6591db0" />)
+
+</details>
+
 Real-time игра с лобби, чатом и синхронизацией состояния через WebSocket.
 Работаю над проектом в команде разработчиков.
 
@@ -37,12 +48,12 @@ Real-time игра с лобби, чатом и синхронизацией с�
 
 ## Стек
 
-**Языки:** JavaScript, TypeScript, HTML, CSS
-**Фреймворки и UI:** React, React Router, Redux Toolkit, SCSS/SASS
-**Real-time и данные:** WebSocket, REST, IndexedDB
-**Тесты:** Jest, Cypress
-**Инструменты:** Git, Webpack, Vite, ESLint, Prettier, Stylelint
-**Подходы:** БЭМ, Feature-Sliced Design, Agile (Scrum)
+- **Языки:** JavaScript, TypeScript, HTML, CSS
+- **Фреймворки и UI:** React, React Router, Redux Toolkit, SCSS/SASS
+- **Real-time и данные:** WebSocket, REST, IndexedDB
+- **Тесты:** Jest, Cypress
+- **Инструменты:** Git, Webpack, Vite, ESLint, Prettier, Stylelint
+- **Подходы:** БЭМ, Feature-Sliced Design, Agile (Scrum)
 
 ## Сейчас изучаю
 Node.js, Next.js
