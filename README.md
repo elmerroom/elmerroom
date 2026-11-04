@@ -12,7 +12,7 @@ Telegram: [@ElmErroom](https://t.me/ElmErroom) · GitHub: [elmerroom](https://gi
 ![Игровой стол](assets/Игра_100ЧО.png)
 
 <details>
-<summary>Ещё скриншоты</summary>
+<summary>$${\color{lightblue}Ещё \space скриншоты}$$</summary>
 
 ![Главная](assets/Главная_страница.png)
 ![Список комнат](assets/Лобби.png)
@@ -39,7 +39,7 @@ Real-time игра с лобби, чатом и синхронизацией с�
 ![Главная](assets/Главная_StellarBurger.png)
 
 <details>
-<summary>Ещё скриншоты</summary>
+<summary>$${\color{lightblue}Ещё \space скриншоты}$$</summary>
 
 ![Лента заказов](assets/Лента_заказов.png)
 ![Личный кабинет](assets/Личный_кабинет.png)
@@ -64,7 +64,7 @@ Real-time игра с лобби, чатом и синхронизацией с�
 ![Главная](assets/Главная_SkillSwap.png)
 
 <details>
-<summary>Ещё скриншоты</summary>
+<summary>$${\color{lightblue}Ещё \space скриншоты}$$</summary>
 
 ![Карточка пользователей](assets/Карточка_Пользователя.png)
 
