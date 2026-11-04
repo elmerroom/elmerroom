@@ -4,6 +4,8 @@ Telegram: [@ElmErroom](https://t.me/ElmErroom) · GitHub: [elmerroom](https://gi
 
 Открыт к предложениям (удалённо/гибрид/офис).
 
+[📄 Скачать резюме (PDF)](./Проскурин_Никита_Frontend.pdf)
+
 ## Избранные проекты
 
 ### 🎲 TowerEmpire — multiplayer-платформа настольных игр
